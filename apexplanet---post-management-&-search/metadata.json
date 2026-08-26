@@ -1,0 +1,7 @@
+{
+  "name": "ApexPlanet - Post Management & Search",
+  "description": "An advanced post management application featuring real-time search by title and content, dynamic pagination, and full CRUD operations with modern UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
